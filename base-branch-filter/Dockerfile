@@ -5,8 +5,8 @@ LABEL "com.github.actions.description"="Filters pull request events based on the
 LABEL "com.github.actions.icon"="filter"
 LABEL "com.github.actions.color"="purple"
 
-LABEL "repository"="https://github.com/hashicorp/terraform-github-actions"
-LABEL "homepage"="http://github.com/hashicorp/terraform-github-actions"
+LABEL "repository"="https://github.com/cblecker/terraform-github-actions"
+LABEL "homepage"="http://github.com/cblecker/terraform-github-actions"
 LABEL "maintainer"="HashiCorp Terraform Team <terraform@hashicorp.com>"
 
 RUN apk --no-cache add jq
